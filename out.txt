@@ -1,0 +1,23 @@
+|---< Project18_DirTree
+|  |---< .idea
+|  |---< src
+|  |  |---< main
+|  |  |  |---< java
+|  |  |  |  |---< com
+|  |  |  |  |  |---< nix
+|  |  |  |---< resources
+|  |  |---< test
+|  |  |  |---< java
+|  |  |  |  |---< com
+|  |  |  |  |  |---< nix
+|  |---< target
+|  |  |---< classes
+|  |  |  |---< com
+|  |  |  |  |---< nix
+|  |  |---< generated-sources
+|  |  |  |---< annotations
+|  |  |---< generated-test-sources
+|  |  |  |---< test-annotations
+|  |  |---< test-classes
+|  |  |  |---< com
+|  |  |  |  |---< nix
